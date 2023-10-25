@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #dbb88e;
+  background-color: bisque;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -16,4 +16,13 @@ h4,
 h5,
 h6 {
   font-family: "Sacramento", cursive;
+}
+
+main {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+main img {
+  width: 100%;
 }
